@@ -31,7 +31,7 @@
 ##
 ## Part III: Bioinformatic Analysis for Human Microbiome
 ### Lecture 7: Introduction to Microbiome
-- PDF
+- [PDF](Lecture_07_Introduction_to_Microbiome.pdf)
 - Lab GGColab: Microbiome data exploration
 - Homework GGColab
 ### Lecture 8: Sequencing strategies for Microbiome Analysis: Amplicon Sequencing and Shotgun Metagenomic
