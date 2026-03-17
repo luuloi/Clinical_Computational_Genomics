@@ -1,7 +1,10 @@
 # Clinical Computational Genomics
 ### Location: Lầu 2, 201 Nguyễn Chí Thanh, Phường Chợ Lớn, TPHCM (Bệnh viện Đại học Y Dược CS2)
+### Time: Thứ Hai hàng tuần từ 17h đến 19h (Riêng Lecture 2 thì thứ Ba cùng giờ)
+####
 <p align="justify">The Clinical Computational Genomics course, as outlined in this repository, provides a comprehensive introduction to the algorithmic and statistical methods used to analyze large-scale genomic data with a focus on medical applications (Infectious Diseases and Human Genetic Diseases). The curriculum covers foundational bioinformatics topics such as sequence alignment Clustal, BWA, Bowtie (including Smith-Waterman and Needleman-Wunsch algorithms), BLAST and BLAT for gene prediction, gene annotation, and phylogenetic analysis. Additionally, the course delves into modern clinical workflows, including high-throughput sequencing data processing (FASTQC, Trimmomatic, Trimgalore...), variant calling (BCFTools and GATK), and the interpretation of genetic data for disease diagnosis and precision medicine. By combining theoretical lectures with practical computational exercises, the course prepares students to translate complex biological sequences into actionable clinical insights.</p>
 
+####
 ## Part I: Background Preparation
 ### Lecture 1: Introduction to Next Generation Sequencing (NGS) and Long Read Sequencing in Clinical Genomics [Loi] - 16/03/2026, onsite
 - [PDF]()
