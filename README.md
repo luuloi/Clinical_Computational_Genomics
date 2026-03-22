@@ -10,7 +10,7 @@
 - [PDF](Lecture_01/Introduction_to_NGS_Loi_2026March16.pdf)
 - Databases: [NCBI](https://www.ncbi.nlm.nih.gov/), [ENCODE](https://www.gencodegenes.org/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) and [UCSC Genome Browser](https://genome.ucsc.edu/)
 ### Lecture 2: Introduction to Linux Operation System, Google Drive & Colab, Github and Linux Command Lines [Phuc, Hung, Loi] - 24/03/2026, onsite 
-- PDF
+- [PDF](Lecture_02/)
 - Lab GGColab
 - Homework GGColab
 ### Lecture 3: Introduction to Programming Language R & Data Visualization with GGPlot [Dan, Loi] - 30/03/2026, online
@@ -36,7 +36,7 @@
 ##
 ## Part III: Bioinformatic Analysis for Human Microbiome
 ### Lecture 7: Introduction to Microbiome
-- [PDF](Lecture_07_Introduction_to_Microbiome.pdf)
+- [PDF](Lecture_07/Lecture_07_Introduction_to_Microbiome.pdf)
 - Lab_07_Microbiome_data_exploration: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AswkD19F2vakpRdEysTafH--2y_oWpJA)
 - Homework GGColab
 ### Lecture 8: Sequencing strategies for Microbiome Analysis: Amplicon Sequencing and Shotgun Metagenomic
