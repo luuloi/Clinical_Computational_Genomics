@@ -11,7 +11,7 @@
 - Databases: [NCBI](https://www.ncbi.nlm.nih.gov/), [ENCODE](https://www.gencodegenes.org/), [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) and [UCSC Genome Browser](https://genome.ucsc.edu/)
 ### Lecture 2: Introduction to Linux Operation System, Google Drive & Colab, Github and Linux Command Lines [Phuc, Hung, Loi] - 24/03/2026, onsite 
 - [PDF](Lecture_02/Lecture_02:_Introduction_to_Linux_OS_GG_Colab_Command_lines.pdf)
-- Lab GGColab
+- Lab GGColab: [![Open In Colab](https://colab.research.google.com/drive/1tYnG5H8EH90x59W-wqsqHNGbrH6HpIkE?usp=sharing) 
 - Homework GGColab
 ### Lecture 3: Introduction to Programming Language R & Data Visualization with GGPlot [Dan, Loi] - 30/03/2026, online
 - PDF
