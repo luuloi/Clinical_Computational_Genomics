@@ -17,6 +17,8 @@
 ### Lecture 3: Introduction to Programming Language R & Data Visualization with GGPlot [Dan, Loi] - 30/03/2026, online
 - [R cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
 - [GGplot cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
+- Short introduction to R: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t3DF5xZgpvEzpBWAnyT69fv5Pa6xFKhL#scrollTo=hmapfpuEl3lr)
+- Data visualization with ggplot2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Se87oXxvsA95oIiK2_sl-X86sVlRzYnz?usp=sharing)
 - Lab GGColab
 + Data
 - Homework GGColab
