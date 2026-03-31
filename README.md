@@ -19,10 +19,8 @@
 - [GGplot cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
 - Short introduction to R: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t3DF5xZgpvEzpBWAnyT69fv5Pa6xFKhL#scrollTo=hmapfpuEl3lr)
 - Data visualization with ggplot2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Se87oXxvsA95oIiK2_sl-X86sVlRzYnz?usp=sharing)
-- Lab GGColab
-+ Data
-- Homework GGColab
-+ Data
+- [YouTube](https://youtu.be/q5Slw7uc1zA)
+- [Data](Lecture_03/Osteo_data.csv)
 ##
 ## Part II: Bioinformatic Analysis for Whole Genome Sequencing (WGS) of infection pathogens (Bacteria and Fungi)
 ### Lecture 4: Detecting and Characterizing infection pathogens using Whole Genome Sequencing (WGS) in Clinical Setting [Tan, Phuc] - 06/4/2026, online
