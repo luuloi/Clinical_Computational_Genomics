@@ -30,11 +30,11 @@
 - [Data](https://drive.google.com/drive/folders/1BeWwpzRWNL1W1nrKlMLBkeHj_ErDyLCh?usp=sharing)
 ### Lecture 5: Bacterial WGS Essentials — MLST Typing and Antimicrobial Resistance (AMR) Gene Profiling [Tan, Phuc] - 13/4/2026, online
 - [PDF](./Lecture_05/Bacterial_WGS_Essentials_MLST_Typing_and_Antimicrobial_Resistance_%28AMR%29_Gene_Profiling.pdf)
-- Lab GGColab: [MLST typing](https://colab.research.google.com/drive/1FgcF6vIb82E8Ih9QAn9EqPIT7S5EqeIx#scrollTo=FQJfePnInkfX) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FgcF6vIb82E8Ih9QAn9EqPIT7S5EqeIx#scrollTo=FQJfePnInkfX)
+- Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FgcF6vIb82E8Ih9QAn9EqPIT7S5EqeIx#scrollTo=FQJfePnInkfX)
 - Homework GGColab
 ### Lecture 6: Fungal WGS Essentials — Targeted Resistance Markers from Whole-Genome Data [Tan, Phuc] - 20/4/2026, online
 - [PDF](./Lecture_06/Fungal_WGS_Essentials_Targeted_Resistance_Marker_from_Whole_Genome_Data.pdf)
-- Lab GGColab: [Open in Colab](https://colab.research.google.com/drive/1x28QRHKYykykZofCicTxEUI3TS3j_LTA?usp=sharing) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x28QRHKYykykZofCicTxEUI3TS3j_LTA?usp=sharing)
+- Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x28QRHKYykykZofCicTxEUI3TS3j_LTA?usp=sharing)
 - [Data](https://drive.google.com/drive/folders/1bm9spPIISfKSC7SZTSPJs6QDtpxefpsm?usp=sharing)
 ## Part III: Bioinformatic Analysis for Human Microbiome
 ### Lecture 7: Introduction to Microbiome [Khai, Hung, Phuc] - 27/4/2026, online
