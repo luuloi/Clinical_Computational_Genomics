@@ -29,8 +29,8 @@
 - Homework GGColab
 - [Data](https://drive.google.com/drive/folders/1BeWwpzRWNL1W1nrKlMLBkeHj_ErDyLCh?usp=sharing)
 ### Lecture 5: Bacterial WGS Essentials — MLST Typing and Antimicrobial Resistance (AMR) Gene Profiling [Tan, Phuc] - 13/4/2026, online
-- PDF
-- Lab GGColab:  MLST typing
+- [PDF](./Lecture_05/Bacterial_WGS_Essentials_MLST_Typing_and_Antimicrobial_Resistance_%28AMR%29_Gene_Profiling.pdf)
+- Lab GGColab: [MLST typing](https://colab.research.google.com/drive/1FgcF6vIb82E8Ih9QAn9EqPIT7S5EqeIx#scrollTo=FQJfePnInkfX) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FgcF6vIb82E8Ih9QAn9EqPIT7S5EqeIx#scrollTo=FQJfePnInkfX)
 - Homework GGColab
 ### Lecture 6: Fungal WGS Essentials — Targeted Resistance Markers from Whole-Genome Data [Tan, Phuc] - 20/4/2026, online
 - PDF
