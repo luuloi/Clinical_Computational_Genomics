@@ -42,7 +42,7 @@
 - Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AswkD19F2vakpRdEysTafH--2y_oWpJA)
 - Homework GGColab
 ### Lecture 8: Sequencing strategies for Microbiome Analysis: Amplicon Sequencing and Shotgun Metagenomic [Khai, Hung, Phuc] - 04/5/2026, onsite
-- [PDF](./Lecture_08/)
+- [PDF](./Lecture_08/Lecture_8_AMPLICON_SEQUENCING.pdf)
 - Lab GGColab: Amplicon Sequencing and Shotgun Metagenomic pipelines
 - Homework GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FFvpJMDn3_zlHdQV_qnFspGWC7LGbRWJ?usp=sharing)
 ### Lecture 9: Clinical Application of Microbiome Analysis [Khai, Hung, Phuc] - 11/5/2026, onsite
