@@ -41,25 +41,25 @@
 - [PDF](Lecture_07/Lecture_07_Introduction_to_Microbiome.pdf)
 - Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AswkD19F2vakpRdEysTafH--2y_oWpJA)
 - Homework GGColab
-### Lecture 8: Sequencing strategies for Microbiome Analysis: Amplicon Sequencing and Shotgun Metagenomic [Khai, Hung, Phuc] - 04/5/2026, onsite
+### Lecture 8: Sequencing strategies for Microbiome Analysis: Amplicon Sequencing and Shotgun Metagenomic [Khai, Hung, Phuc] - 11/5/2026, onsite
 - [PDF](./Lecture_08/Lecture_8_AMPLICON_SEQUENCING.pdf)
 - Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FFvpJMDn3_zlHdQV_qnFspGWC7LGbRWJ?usp=sharing)
 - Homework GGColab: 
-### Lecture 9: Clinical Application of Microbiome Analysis [Khai, Hung, Phuc] - 11/5/2026, onsite
+### Lecture 9: Clinical Application of Microbiome Analysis [Khai, Hung, Phuc] - 18/5/2026, onsite
 - PDF
 - Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ouG-UwGSlfoUquo5CGDUzNwUVjC7zXeM?usp=sharing)
 - Homework GGColab
 ##
 ## Part IV: Bioinformatic Analysis for Human Genomics
-### Lecture 10: Introduction to Targeted Sequencing for Germline Inherited Disease Detection [Giau, Hung] - 18/5/2026, onsite
+### Lecture 10: Introduction to Targeted Sequencing for Germline Inherited Disease Detection [Giau, Hung] - 25/5/2026, onsite
 - PDF
 - Lab GGColab: Raw Sequence Processing & Alignment; IGV Germline Variant Visualization
 - Homework GGColab
-### Lecture 11: Introduction to Low-Pass (Coverage) Whole Genome Sequencing (WGS) for Non-Invasive Prenatal Testing (NIPT) & Pre-implantation Genetic Testing for Aneuploidy (PGT-A) [Duy] - 25/5/2026, onsite
+### Lecture 11: Introduction to Low-Pass (Coverage) Whole Genome Sequencing (WGS) for Non-Invasive Prenatal Testing (NIPT) & Pre-implantation Genetic Testing for Aneuploidy (PGT-A) [Duy] - 01/6/2026, onsite
 - PDF
 - Lab GGColab: Variant Calling and Filtering
 - Homework GGColab
-### Lecture 12: Introduction to Targeted Sequencing for Somatic Mutation Detection in Cancer using Tissue & Liquid Biopsy [Hung, Tra] - 01/6/2026, onsite
+### Lecture 12: Introduction to Targeted Sequencing for Somatic Mutation Detection in Cancer using Tissue & Liquid Biopsy [Hung, Tra] - 08/6/2026, onsite
 - PDF
 - Lab GGColab: Variant Annotation & Annotation Databases
 - Homework GGColab
