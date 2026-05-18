@@ -47,7 +47,7 @@
 - Homework GGColab: 
 ### Lecture 9: Clinical Application of Microbiome Analysis [Khai, Hung, Phuc] - 11/5/2026, onsite
 - PDF
-- Lab GGColab: Applying Amplicon Sequencing for Diagnosis
+- Lab GGColab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ouG-UwGSlfoUquo5CGDUzNwUVjC7zXeM?usp=sharing)
 - Homework GGColab
 ##
 ## Part IV: Bioinformatic Analysis for Human Genomics
